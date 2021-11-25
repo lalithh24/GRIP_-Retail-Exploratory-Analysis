@@ -1,1 +1,1 @@
-# GRIP - Retail-Exploratory-Analysis
+# GRIP - Retail Exploratory Analysis
