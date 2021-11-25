@@ -1,1 +1,1 @@
-# GRIP_-Retail-Exploratory-Analysis
+# GRIP - Retail-Exploratory-Analysis
